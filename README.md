@@ -27,7 +27,7 @@ Gösterilen bilgiler:
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- 💻 ASP.NET Core (8.0) – Projenin temel geliştirme çatısıdır.  
+- 💻 ASP.NET Core (6.0) – Projenin temel geliştirme çatısıdır.  
 - 🏗️ Tek Katmanlı Mimari – Hızlı geliştirme ve basitlik adına tercih edilmiştir.  
 - 🌐 Booking.com API (RapidAPI üzerinden) – Otel verilerini çekmek için kullanılan API.  
 
